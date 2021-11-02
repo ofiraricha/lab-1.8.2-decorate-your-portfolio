@@ -1,0 +1,14 @@
+body {background-color: rgb(241, 207, 155);}
+
+img {border-radius: 20%;}
+img {
+    max-width: 10%;
+    height: auto;
+}
+.logoimage {
+    border: 5px solid black
+}
+
+
+h1 {text-align: center;}
+h2 {text-align: center;}        
